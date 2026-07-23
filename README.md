@@ -1,1 +1,3 @@
-Nach mehr als 30 Jahren ist es nun soweit und Shining Force II für das Sega MegaDrive / Genesis erhält von mir eine Übersetzung. Diese ist vollständig, alle Dialoge und Menüeinträge sind übersetzt. Nichtssagende Dialoge oder Büchertitel wurden erweitert bzw. durch Zitate ersetzt. Die Originalgeschichte blieb natürlich erhalten. Hinzugefügt ist ein rollendes Text-Intro.
+Nach mehr als 30 Jahren ist es nun soweit und Shining Force II fÃ¼r das Sega MegaDrive / Genesis erhÃ¤lt von mir eine Ãœbersetzung. Diese ist vollstÃ¤ndig, alle Dialoge und MenÃ¼eintrÃ¤ge sind Ã¼bersetzt. Nichtssagende Dialoge oder BÃ¼chertitel wurden erweitert bzw. durch Zitate ersetzt. Die Originalgeschichte blieb natÃ¼rlich erhalten. HinzugefÃ¼gt ist ein rollendes Text-Intro.
+
+SchnappschÃ¼sse:
