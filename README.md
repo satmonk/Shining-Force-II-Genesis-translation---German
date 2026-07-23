@@ -12,4 +12,12 @@ Schnappschüsse:
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/da1465e9-d3ca-497f-9126-cb98eeb8fd79" />
 
-ips / delta - Patch Dateien für das original US Spiel
+ips / delta - Patch Dateien
+für das amerikanische original SF2 Spiel (crc32: 4815E075)
+
+Patch-Tools:
+IPS XP
+oder 
+<a href="https://github.com/marco-calautti/deltapatcher/">Delta Patcher</a>
+
+Namensgebung könnte z.B. lauten: SF2 (U) [T+GER_v0.9_Satmonk]
