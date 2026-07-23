@@ -12,3 +12,4 @@ Schnappschüsse:
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/da1465e9-d3ca-497f-9126-cb98eeb8fd79" />
 
+ips / delta - Patch Dateien für das original US Spiel
